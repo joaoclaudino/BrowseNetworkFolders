@@ -1,0 +1,11 @@
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\bin\Debug\BrowseNetworkFolders.exe
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\bin\Debug\BrowseNetworkFolders.pdb
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\bin\Debug\BrowseNetworkFolders.xml
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\obj\Debug\BrowseNetworkFolders.vbprojAssemblyReference.cache
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\obj\Debug\BrowseNetworkFolders.frmBrowseNetwork.resources
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\obj\Debug\BrowseNetworkFolders.Resources.resources
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\obj\Debug\BrowseNetworkFolders.vbproj.GenerateResource.cache
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\obj\Debug\BrowseNetworkFolders.vbproj.CoreCompileInputs.cache
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\obj\Debug\BrowseNetworkFolders.exe
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\obj\Debug\BrowseNetworkFolders.xml
+C:\Users\WUP84\Source\repos\BrowseNetworkFolders\BrowseNetworkFolders\obj\Debug\BrowseNetworkFolders.pdb

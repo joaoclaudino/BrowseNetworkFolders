@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BrowseNetworkFolders
+</name>
+</assembly>
+<members>
+<member name="T:BrowseNetworkFolders.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BrowseNetworkFolders.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BrowseNetworkFolders.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:BrowseNetworkFolders.frmBrowseNetwork.GetNetworkFolders(System.Windows.Forms.FolderBrowserDialog)">
+ <summary>
+ This function will get the Folderdialog as parameter and return the Selected
+ Folders UNC path. 
+ Ex: \\Server1\TestFolder
+ </summary>
+ <param name="oFolderBrowserDialog"></param>
+ <returns>it will return the Selected Folders UNC Path</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
